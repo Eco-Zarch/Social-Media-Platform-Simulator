@@ -1,1 +1,1 @@
-# Social-Media-Platform-Simulator
+# Social Media Platform Simulator
